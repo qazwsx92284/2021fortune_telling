@@ -9,7 +9,7 @@ It was done while taking 2-days workshop held by Sparta coding club.
 ![신년1](https://user-images.githubusercontent.com/60413186/110567335-aa76fe00-8194-11eb-91bc-f08862a1e93a.PNG)
 
 <h3> Hover effect </h3>
-![신년2](https://user-images.githubusercontent.com/60413186/110567545-0e99c200-8195-11eb-96fe-121c66ee9e23a.PNG)
+![신년2](https://user-images.githubusercontent.com/60413186/110568616-9b914b00-8196-11eb-8f09-2f7c761f892b.PNG)
 
 
 <h3> Result page </h3>
